@@ -1,0 +1,26 @@
+[
+  {
+    "startPointId": "START_UST_KAPI",
+    "name": "Yeditepe Üst Kapı",
+    "description": "Kayışdağı Cd. üst giriş kapısı",
+    "latitude": 40.9755,
+    "longitude": 29.1498,
+    "isUserLocation": false
+  },
+  {
+    "startPointId": "START_ALT_KAPI",
+    "name": "Yeditepe Alt Kapı",
+    "description": "İçerenköy tarafı alt giriş kapısı",
+    "latitude": 40.9698,
+    "longitude": 29.1461,
+    "isUserLocation": false
+  },
+  {
+    "startPointId": "START_USER_GPS",
+    "name": "Kullanıcı Konumu (GPS)",
+    "description": "Cihazın anlık GPS konumu — lat/lng çalışma zamanında doldurulur",
+    "latitude": null,
+    "longitude": null,
+    "isUserLocation": true
+  }
+]

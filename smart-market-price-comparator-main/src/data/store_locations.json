@@ -1,0 +1,121 @@
+[
+  {
+    "storeId": "A101-01",
+    "chain": "A101",
+    "latitude": 40.978745,
+    "longitude": 29.1137938,
+    "address": "Kayışdağı Cd. 48D, Ataşehir"
+  },
+
+  {
+    "storeId": "A101-02",
+    "chain": "A101",
+    "latitude": 40.986688,
+    "longitude": 29.1412238,
+    "address": "Atilla Cd. No:11, Ataşehir"
+  },
+
+  {
+    "storeId": "A101-03",
+    "chain": "A101",
+    "latitude": 40.977957,
+    "longitude": 29.1280625,
+    "address": "19 Mayıs Cd. No:6, Ataşehir"
+  },
+
+  {
+    "storeId": "BIM-01",
+    "chain": "BIM",
+    "latitude": 40.9827981,
+    "longitude": 29.1480814,
+    "address": "Rumeli Cd. No:34, Ataşehir"
+  },
+
+  {
+    "storeId": "BIM-02",
+    "chain": "BIM",
+    "latitude": 40.983824,
+    "longitude": 29.141801,
+    "address": "Nasır Cd. No:20, Ataşehir"
+  },
+
+  {
+    "storeId": "BIM-03",
+    "chain": "BIM",
+    "latitude": 40.9802193,
+    "longitude": 29.0864004,
+    "address": "İnönü Cd. No:55, Kadıköy"
+  },
+
+  {
+    "storeId": "SOK-01",
+    "chain": "SOK",
+    "latitude": 40.9784953,
+    "longitude": 29.1249746,
+    "address": "Kayışdağı Cd. No:112, Ataşehir"
+  },
+
+  {
+    "storeId": "SOK-02",
+    "chain": "SOK",
+    "latitude": 40.9797353,
+    "longitude": 29.1423684,
+    "address": "Akyazı Cd. No:18, Ataşehir"
+  },
+
+  {
+    "storeId": "SOK-03",
+    "chain": "SOK",
+    "latitude": 40.976398,
+    "longitude": 29.1533764,
+    "address": "İnkilap Cd. No:9, Ataşehir"
+  },
+
+  {
+    "storeId": "MIGROS-01",
+    "chain": "MIGROS",
+    "latitude": 40.986115,
+    "longitude": 29.142779,
+    "address": "Atilla Cd. No:22, Ataşehir"
+  },
+
+  {
+    "storeId": "MIGROS-02",
+    "chain": "MIGROS",
+    "latitude": 40.9892423,
+    "longitude": 29.1424984,
+    "address": "Atapark Cd. No:3C, Ataşehir"
+  },
+
+  {
+    "storeId": "MIGROS-03",
+    "chain": "MIGROS",
+    "latitude": 40.9785528,
+    "longitude": 29.1364639,
+    "address": "Kayışdağı Cd. No:200, Ataşehir"
+  },
+
+  {
+    "storeId": "CF-01",
+    "chain": "CF",
+    "latitude": 40.975972,
+    "longitude": 29.1529439,
+    "address": "Çakmakçı Sok. No:5, Ataşehir"
+  },
+
+  {
+    "storeId": "CF-02",
+    "chain": "CF",
+    "latitude": 40.9863772,
+    "longitude": 29.1508841,
+    "address": "Derin Sk. No:12, Ataşehir"
+  },
+
+  {
+    "storeId": "CF-03",
+    "chain": "CF",
+    "latitude": 40.9930345,
+    "longitude": 29.1217168,
+    "address": "Atatürk Mah. Cd. No:8, Ataşehir"
+  }
+]

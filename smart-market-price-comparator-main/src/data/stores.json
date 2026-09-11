@@ -1,0 +1,77 @@
+[
+  {
+    "storeId": "A101-01",
+    "name": "A101 Kayışdağı Şubesi",
+    "chainName": "A101"
+  },
+  {
+    "storeId": "A101-02",
+    "name": "A101 Atilla Cd. Şubesi",
+    "chainName": "A101"
+  },
+  {
+    "storeId": "A101-03",
+    "name": "A101 Üst Kapı Şubesi",
+    "chainName": "A101"
+  },
+  {
+    "storeId": "BIM-01",
+    "name": "BIM Rumeli Cd. Şubesi",
+    "chainName": "BIM"
+  },
+  {
+    "storeId": "BIM-02",
+    "name": "BIM Nasır Cd. Şubesi",
+    "chainName": "BIM"
+  },
+  {
+    "storeId": "BIM-03",
+    "name": "BIM İnönü Şubesi",
+    "chainName": "BIM"
+  },
+  {
+    "storeId": "SOK-01",
+    "name": "ŞOK Kayışdağı Cd. Şubesi",
+    "chainName": "SOK"
+  },
+  {
+    "storeId": "SOK-02",
+    "name": "ŞOK Akyazı Cd. Şubesi",
+    "chainName": "SOK"
+  },
+  {
+    "storeId": "SOK-03",
+    "name": "ŞOK İnkilap Cd. Şubesi",
+    "chainName": "SOK"
+  },
+  {
+    "storeId": "MIGROS-01",
+    "name": "Migros Ataşehir Şubesi",
+    "chainName": "MIGROS"
+  },
+  {
+    "storeId": "MIGROS-02",
+    "name": "Migros Alapark Şubesi",
+    "chainName": "MIGROS"
+  },
+  {
+    "storeId": "MIGROS-03",
+    "name": "Migros Kayışdağı Şubesi",
+    "chainName": "MIGROS"
+  },
+  {
+    "storeId": "CF-01",
+    "name": "CarrefourSA Kayışdağı Şubesi",
+    "chainName": "CAREFOUR"
+  },
+  {
+    "storeId": "CF-02",
+    "name": "CarrefourSA İçerenköy Şubesi",
+    "chainName": "CAREFOUR"
+  },
+  {
+    "storeId": "CF-03",
+    "name": "CarrefourSA Atatürk Şubesi",
+    "chainName": "CAREFOUR"
+  }
+]

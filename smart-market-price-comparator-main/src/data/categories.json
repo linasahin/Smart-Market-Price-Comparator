@@ -1,0 +1,30 @@
+[
+  {
+    "categoryId": "CAT01",
+    "name": "Dairy"
+  },
+  {
+    "categoryId": "CAT02",
+    "name": "Meat & Protein"
+  },
+  {
+    "categoryId": "CAT03",
+    "name": "Bakery"
+  },
+  {
+    "categoryId": "CAT04",
+    "name": "Personal Care"
+  },
+  {
+    "categoryId": "CAT05",
+    "name": "Household/Cleaning"
+  },
+  {
+    "categoryId": "CAT06",
+    "name": "Snacks & Drinks"
+  },
+  {
+    "categoryId": "CAT07",
+    "name": "Cooking & Pantry"
+  }
+]
