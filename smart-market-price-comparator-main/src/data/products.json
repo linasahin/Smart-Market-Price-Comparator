@@ -1,0 +1,164 @@
+[
+  {
+    "productId": "P001",
+    "name": "MILK",
+    "categoryId": "CAT01",
+    "categoryName": "Dairy"
+  },
+  {
+    "productId": "P002",
+    "name": "BUTTER",
+    "categoryId": "CAT01",
+    "categoryName": "Dairy"
+  },
+  {
+    "productId": "P003",
+    "name": "YOGURT",
+    "categoryId": "CAT01",
+    "categoryName": "Dairy"
+  },
+  {
+    "productId": "P004",
+    "name": "KASHAR CHEESE",
+    "categoryId": "CAT01",
+    "categoryName": "Dairy"
+  },
+  {
+    "productId": "P005",
+    "name": "WHITE CHEESE",
+    "categoryId": "CAT01",
+    "categoryName": "Dairy"
+  },
+  {
+    "productId": "P006",
+    "name": "BEEF",
+    "categoryId": "CAT02",
+    "categoryName": "Meat & Protein"
+  },
+  {
+    "productId": "P007",
+    "name": "CHICKEN",
+    "categoryId": "CAT02",
+    "categoryName": "Meat & Protein"
+  },
+  {
+    "productId": "P008",
+    "name": "SAUSAGES",
+    "categoryId": "CAT02",
+    "categoryName": "Meat & Protein"
+  },
+  {
+    "productId": "P009",
+    "name": "EGGS",
+    "categoryId": "CAT02",
+    "categoryName": "Meat & Protein"
+  },
+  {
+    "productId": "P010",
+    "name": "TUNA",
+    "categoryId": "CAT02",
+    "categoryName": "Meat & Protein"
+  },
+  {
+    "productId": "P011",
+    "name": "BREAD",
+    "categoryId": "CAT03",
+    "categoryName": "Bakery"
+  },
+  {
+    "productId": "P012",
+    "name": "TOAST BREAD",
+    "categoryId": "CAT03",
+    "categoryName": "Bakery"
+  },
+  {
+    "productId": "P013",
+    "name": "SHAMPOO",
+    "categoryId": "CAT04",
+    "categoryName": "Personal Care"
+  },
+  {
+    "productId": "P014",
+    "name": "TOOTHPASTE",
+    "categoryId": "CAT04",
+    "categoryName": "Personal Care"
+  },
+  {
+    "productId": "P015",
+    "name": "PERIOD PADS",
+    "categoryId": "CAT04",
+    "categoryName": "Personal Care"
+  },
+  {
+    "productId": "P016",
+    "name": "TOILET PAPER",
+    "categoryId": "CAT05",
+    "categoryName": "Household/Cleaning"
+  },
+  {
+    "productId": "P017",
+    "name": "LAUNDRY DETERGENT",
+    "categoryId": "CAT05",
+    "categoryName": "Household/Cleaning"
+  },
+  {
+    "productId": "P018",
+    "name": "DISH SOAP",
+    "categoryId": "CAT05",
+    "categoryName": "Household/Cleaning"
+  },
+  {
+    "productId": "P019",
+    "name": "POTATO CHIPS",
+    "categoryId": "CAT06",
+    "categoryName": "Snacks & Drinks"
+  },
+  {
+    "productId": "P020",
+    "name": "COLA",
+    "categoryId": "CAT06",
+    "categoryName": "Snacks & Drinks"
+  },
+  {
+    "productId": "P021",
+    "name": "WATER",
+    "categoryId": "CAT06",
+    "categoryName": "Snacks & Drinks"
+  },
+  {
+    "productId": "P022",
+    "name": "SODA WATER",
+    "categoryId": "CAT06",
+    "categoryName": "Snacks & Drinks"
+  },
+  {
+    "productId": "P023",
+    "name": "CHOCOLATE BAR",
+    "categoryId": "CAT06",
+    "categoryName": "Snacks & Drinks"
+  },
+  {
+    "productId": "P024",
+    "name": "PASTA",
+    "categoryId": "CAT07",
+    "categoryName": "Cooking & Pantry"
+  },
+  {
+    "productId": "P025",
+    "name": "FLOUR",
+    "categoryId": "CAT07",
+    "categoryName": "Cooking & Pantry"
+  },
+  {
+    "productId": "P026",
+    "name": "RICE",
+    "categoryId": "CAT07",
+    "categoryName": "Cooking & Pantry"
+  },
+  {
+    "productId": "P027",
+    "name": "OIL",
+    "categoryId": "CAT07",
+    "categoryName": "Cooking & Pantry"
+  }
+]
